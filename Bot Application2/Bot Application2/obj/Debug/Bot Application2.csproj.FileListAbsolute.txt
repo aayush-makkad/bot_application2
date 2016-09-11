@@ -1,0 +1,55 @@
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Bot Application1.dll.config
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Bot Application1.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Bot Application1.pdb
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Autofac.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Chronic.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Bot.Connector.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Newtonsoft.Json.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Net.Http.Formatting.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Web.Http.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Web.Http.WebHost.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Autofac.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Bot.Connector.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Newtonsoft.Json.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Net.Http.Formatting.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Web.Http.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Web.Http.WebHost.xml
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\obj\Debug\Bot Application2.csprojResolveAssemblyReference.cache
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\obj\Debug\Bot Application1.dll
+c:\users\aayush\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\obj\Debug\Bot Application1.pdb
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.Core.dll
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.Customsearch.v1.dll
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.dll
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.PlatformServices.dll
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\log4net.dll
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Zlib.Portable.dll
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.pdb
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.xml
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.Core.pdb
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.Core.xml
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.Customsearch.v1.pdb
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.Customsearch.v1.xml
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.PlatformServices.pdb
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Google.Apis.PlatformServices.xml
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\log4net.xml
+C:\Users\aayush\Documents\Visual Studio 2015\Projects\Bot Application2\Bot Application2\bin\Zlib.Portable.xml
